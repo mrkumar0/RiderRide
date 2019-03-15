@@ -1,0 +1,46 @@
+    /* Add a gray background color and some padding to the footer */
+    body{
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(30deg, #1870ed 0, #f18f88 100%);
+    }
+/* footer follow */
+	.fa {
+	  padding: 10px;
+	  font-size: 30px;
+	  width: 30px;
+	  text-align: center;
+	  text-decoration: none;
+	  margin-top: -10px;
+		margin-left: 5px;
+	  border-radius: 50%;
+	}
+
+	.fa:hover {
+	    opacity: 0.9;
+	}
+
+	.fa-facebook {
+	  background: #3B5998;
+	  color: white;
+	}
+
+	.fa-twitter {
+	  background: #55ACEE;
+	  color: white;
+	}
+
+	.fa-google {
+	  background: #dd4b39;
+	  color: white;
+	}
+
+	.fa-linkedin {
+	  background: #007bb5;
+	  color: white;
+	}
+
+	.fa-instagram {
+	  background: #125688;
+	  color: white;
+	}

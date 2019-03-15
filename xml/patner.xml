@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlDoc.getElementsByTagName('title')[i].childNodes[0].nodeValue -->
+<patners>
+	<patner>
+		<id>1</id>
+		<model>victa 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;1</image>
+		<number>BR26 2154</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>2</id>
+		<model>scorpio xlv 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;2</image>
+		<number>BR26 2612</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>3</id>
+		<model>victa 2014 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;3</image>
+		<number>BR16 1489</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>4</id>
+		<model>victa 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;4</image>
+		<number>BR26 6548</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>5</id>
+		<model>victa 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;5</image>
+		<number>BR46 1651</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>6</id>
+		<model>victa 2010 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;6</image>
+		<number>BR06 1578</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>7</id>
+		<model>VERNA 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;7</image>
+		<number>BR26 1205</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>8</id>
+		<model>victa 2018 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;8</image>
+		<number>BR26 4589</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>9</id>
+		<model>BOLERO 2013 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;9</image>
+		<number>BR16 7841</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>10</id>
+		<model>ARMADA 2010 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;10</image>
+		<number>BR81 1230</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>11</id>
+		<model>FIGO 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;11</image>
+		<number>BR28 3216</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>12</id>
+		<model>OMINI 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;12</image>
+		<number>BR28 4526</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>13</id>
+		<model>TEMPO 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;13</image>
+		<number>BR06 1215</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>14</id>
+		<model>BOLERO 2016 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;14</image>
+		<number>BR78 1440</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+	<patner>
+		<id>15</id>
+		<model>OMINI 2010 model</model>
+		<image>http://placehold.it/500/e499e4/fff&#38;text&#61;15</image>
+		<number>BR11 4846</number>
+		<gadi>daudnagar</gadi>
+		<from>DAUDNAGAR</from>
+		<to>patna</to>
+		<price>2000</price>
+	</patner>
+</patners>

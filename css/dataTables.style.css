@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oxygen);
+table.vitamins {
+    margin: 20px 0 0 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background: #212121;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+    text-transform: uppercase;
+}
+
+table.vitamins th, table.vitamins td {
+    text-align: center;
+}
+
+table.vitamins thead {
+    line-height: 12px;
+    background: #2e63e7;
+}
+
+table.vitamins thead th {
+    color: #fff;
+    padding: 10px;
+    letter-spacing: 1px;
+    vertical-align: bottom;
+}
+
+table.vitamins thead th:nth-child(1) {
+    width: 20%;
+    padding-left: 5px;
+}
+
+table.vitamins thead th:nth-child(2) {
+    width: 14%;
+}
+
+table.vitamins thead th:nth-child(3) {
+    width: 14%;
+}
+
+table.vitamins thead th:nth-child(4) {
+    width: 14%;
+}
+table.vitamins thead th:nth-child(4) {
+    width: 14%;
+}
+table.vitamins thead th:nth-child(4) {
+    width: 14%;
+}
+table.vitamins thead th:nth-child(4) {
+    width: 10%;
+}
+
+table.vitamins tbody {
+    font-size: 1em;
+    line-height: 15px;
+}
+
+table.vitamins tbody tr {
+    border-top: 2px solid rgba(109, 176, 231, 0.8);
+    transition: background 0.6s, color 0.6s;
+}
+
+table.vitamins tbody tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+table.vitamins tbody tr:hover {
+    color: #000;
+    background: rgba(0, 255, 255, 0.7);
+    font-weight: 900;
+}
+
+table.vitamins tbody td {
+    padding: 5px;
+}
+
+table.vitamins tbody tr:hover td:first-child {
+    background: rgba(0,0,0,5);
+}
+
+table.vitamins tbody td:first-child {
+    text-align: left;
+    padding-left: 5px;
+    font-weight: 700;
+    background: rgba(109, 176, 231, 0.35);
+    transition: backgrounf 0.6s;
+}
+
+table.vitamins tfoot {
+    font-size: 0.8em;
+}
+
+table.vitamins tfoot tr {
+    border-top: 2px solid #2e63e7;
+}
+
+table.vitamins tfoot td {
+    color: rgba(255,255,215,0.6);
+    text-align: left;
+    line-height: 15px;
+    padding: 15px 20px;
+}
+
+tfoot input {
+    color: black;
+        padding: 6px;
+        box-sizing: border-box;
+        width: 90%;
+    }
+tfoot{
+    display: table-header-group;
+}
+
