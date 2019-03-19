@@ -64,10 +64,16 @@
 
 <script type="text/javascript" src="js/xml.dataTables.script.js"></script>
 <script type="text/javascript" src="js/dataTables.script.js"></script>
-
-<script>
-function myFunction(i) {
-  alert("Contact To Driver\nMobile No : "+i);
-}
+<script type = "text/javascript">
+	function getConfirmation(number) {
+		var retVal = confirm("For Book Ticket Call To Driver.\n\tYou Want To Call ?");
+		if( retVal == true ) {
+			document.getElementById(number).click();
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
 </script>
 </html>
