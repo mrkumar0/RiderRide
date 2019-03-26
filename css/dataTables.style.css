@@ -31,24 +31,18 @@ table.vitamins thead th:nth-child(1) {
 }
 
 table.vitamins thead th:nth-child(2) {
-    width: 14%;
+    width: 20%;
 }
 
 table.vitamins thead th:nth-child(3) {
-    width: 14%;
+    width: 20%;
 }
 
 table.vitamins thead th:nth-child(4) {
-    width: 14%;
+    width: 20%;
 }
-table.vitamins thead th:nth-child(4) {
-    width: 14%;
-}
-table.vitamins thead th:nth-child(4) {
-    width: 14%;
-}
-table.vitamins thead th:nth-child(4) {
-    width: 10%;
+table.vitamins thead th:nth-child(5) {
+    width: 20%;
 }
 
 table.vitamins tbody {
