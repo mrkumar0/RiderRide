@@ -16,7 +16,7 @@ var xhttp;
   var x = xmlDoc.getElementsByTagName("id");
   for(i=0;i<x.length;i++)
   {
-    tabular += '<tr><td><img src="images/'+xmlDoc.getElementsByTagName('gadi_number')[i].childNodes[0].nodeValue+'.jpg" class="img-responsive"></td><td>'+xmlDoc.getElementsByTagName('gadi_model')[i].childNodes[0].nodeValue+'</td><td>'+xmlDoc.getElementsByTagName('gadi_number')[i].childNodes[0].nodeValue+'</td><td>'+xmlDoc.getElementsByTagName('gadi_from')[i].childNodes[0].nodeValue+'</td><td><button type="button" class="btn btn-success" onclick="getConfirmation('+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+')">'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'</button><a id="'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'" href="tel:'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'"></a></td></tr>';
+    tabular += '<tr><td>'+xmlDoc.getElementsByTagName('gadi_model')[i].childNodes[0].nodeValue+'</td><td>'+xmlDoc.getElementsByTagName('gadi_number')[i].childNodes[0].nodeValue+'</td><td>'+xmlDoc.getElementsByTagName('gadi_from')[i].childNodes[0].nodeValue+'</td><td><button type="button" class="btn btn-success" onclick="getConfirmation('+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+')">'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'</button><a id="'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'" href="tel:'+xmlDoc.getElementsByTagName('driver_number')[i].childNodes[0].nodeValue+'"></a></td></tr>';
   }
   tabular += '</tbody></table>';
   document.getElementById("slideid").innerHTML = tabular;
