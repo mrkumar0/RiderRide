@@ -11,7 +11,7 @@ var xhttp;
   xhttp.open("GET","xml/patner.xml",false);
   xhttp.send();
   var xmlDoc = xhttp.responseXML;
-  var tabular = '<table style="width: 100%;" id="example" class="vitamins"><tfoot><tr><th>Image</th><th>Model</th><th>Number</th><th>Gadi From</th><th>Driver No.</th></tr></tfoot><thead><tr><th>image</th><th>model</th><th>number</th><th>gadi from</th><th>Driver No.</th></tr></thead><tbody>';
+  var tabular = '<table style="width: 100%;" id="example" class="vitamins"><tfoot><tr><th>Model</th><th>Number</th><th>Gadi From</th><th>Driver No.</th></tr></tfoot><thead><tr><th>model</th><th>number</th><th>gadi from</th><th>Driver No.</th></tr></thead><tbody>';
   var i;
   var x = xmlDoc.getElementsByTagName("id");
   for(i=0;i<x.length;i++)
