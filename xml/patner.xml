@@ -1,2 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<patners><patner id="1"><id>1</id><gadi_model>EON MODEL 2014</gadi_model><gadi_number>BR02Q 5111</gadi_number><gadi_from>SOHSA</gadi_from><driver_number>8789319806</driver_number></patner><patner id="2"><id>2</id><gadi_model>VICTA 2013 MODEL</gadi_model><gadi_number>BR01PB 4576</gadi_number><gadi_from>SOHSA</gadi_from><driver_number>7739147639</driver_number></patner><patner id="3"><id>3</id><gadi_model>VICTA 2012 MODEL</gadi_model><gadi_number>BR01PD 4531</gadi_number><gadi_from>KALER</gadi_from><driver_number>9931257329</driver_number></patner><patner id="4"><id>4</id><gadi_model>VICTA 2013 MODEL</gadi_model><gadi_number>BR01PE 4221</gadi_number><gadi_from>KALER</gadi_from><driver_number>7061363195</driver_number></patner><patner id="5"><id>5</id><gadi_model>VICTA 2012 MODEL</gadi_model><gadi_number>BR01PB 4531</gadi_number><gadi_from>KALER</gadi_from><driver_number>9934732159</driver_number></patner><patner id="6"><id>6</id><gadi_model>VICTA 2011 MODEL</gadi_model><gadi_number>BR01PC 9296</gadi_number><gadi_from>KALER</gadi_from><driver_number>9934732159</driver_number></patner><patner id="7"><id>7</id><gadi_model>VICTA 2014 MODEL</gadi_model><gadi_number>BR01PF 0758</gadi_number><gadi_from>KALER</gadi_from><driver_number>9939868839</driver_number></patner><patner id="8"><id>8</id><gadi_model>VICTA 2015 MODEL</gadi_model><gadi_number>BR26H 9202</gadi_number><gadi_from>KALER</gadi_from><driver_number>9934732159</driver_number></patner><patner id="9"><id>9</id><gadi_model>SUMO GOLD 2012 MODEL</gadi_model><gadi_number>JH16A 7917</gadi_number><gadi_from>JH</gadi_from><driver_number>9939868839</driver_number></patner><patner id="10"><id>10</id><gadi_model>swift dzire 2011 MODEL</gadi_model><gadi_number>BR01AS 8600</gadi_number><gadi_from>JH</gadi_from><driver_number>9931257329</driver_number></patner><patner id="11"><id>11</id><gadi_model>VICTA 2016 MODEL</gadi_model><gadi_number>BR01PB 2317</gadi_number><gadi_from>PATNA</gadi_from><driver_number>7488118971</driver_number></patner><patner id="12"><id>12</id><gadi_model>VICTA 2019 MODEL</gadi_model><gadi_number>BR01PB 0849</gadi_number><gadi_from>PATNA</gadi_from><driver_number>8390780868</driver_number></patner></patners>
+patners>
+<patner id="1">
+<id>1</id>
+<gadi_model>EON MODEL 2014</gadi_model>
+<gadi_number>BR02Q 5111</gadi_number>
+<gadi_from>SOHSA</gadi_from>
+<driver_number>8789319806</driver_number>
+</patner>
+<patner id="2">
+<id>2</id>
+<gadi_model>VICTA 2013 MODEL</gadi_model>
+<gadi_number>BR01PB 4576</gadi_number>
+<gadi_from>SOHSA</gadi_from>
+<driver_number>7739147639</driver_number>
+</patner>
+<patner id="3">
+<id>3</id>
+<gadi_model>VICTA 2012 MODEL</gadi_model>
+<gadi_number>BR01PD 4531</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>9931257329</driver_number>
+</patner>
+<patner id="4">
+<id>4</id>
+<gadi_model>VICTA 2013 MODEL</gadi_model>
+<gadi_number>BR01PE 4221</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>7061363195</driver_number>
+</patner>
+<patner id="5">
+<id>5</id>
+<gadi_model>VICTA 2012 MODEL</gadi_model>
+<gadi_number>BR01PB 4531</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>9934732159</driver_number>
+</patner>
+<patner id="6">
+<id>6</id>
+<gadi_model>VICTA 2011 MODEL</gadi_model>
+<gadi_number>BR01PC 9296</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>9934732159</driver_number>
+</patner>
+<patner id="7">
+<id>7</id>
+<gadi_model>VICTA 2014 MODEL</gadi_model>
+<gadi_number>BR01PF 0758</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>9939868839</driver_number>
+</patner>
+<patner id="8">
+<id>8</id>
+<gadi_model>VICTA 2015 MODEL</gadi_model>
+<gadi_number>BR26H 9202</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>9934732159</driver_number>
+</patner>
+<patner id="9">
+<id>9</id>
+<gadi_model>SUMO GOLD 2012 MODEL</gadi_model>
+<gadi_number>JH16A 7917</gadi_number>
+<gadi_from>JH</gadi_from>
+<driver_number>9939868839</driver_number>
+</patner>
+<patner id="10">
+<id>10</id>
+<gadi_model>swift dzire 2011 MODEL</gadi_model>
+<gadi_number>BR01AS 8600</gadi_number>
+<gadi_from>JH</gadi_from>
+<driver_number>9931257329</driver_number>
+</patner>
+<patner id="11">
+<id>11</id>
+<gadi_model>VICTA 2016 MODEL</gadi_model>
+<gadi_number>BR01PB 2317</gadi_number>
+<gadi_from>PATNA</gadi_from>
+<driver_number>7488118971</driver_number>
+</patner>
+<patner id="12">
+<id>12</id>
+<gadi_model>VICTA 2019 MODEL</gadi_model>
+<gadi_number>BR01PB 0849</gadi_number>
+<gadi_from>PATNA</gadi_from>
+<driver_number>8390780868</driver_number>
+</patner>
+<patner id="13">
+<id>13</id>
+<gadi_model>SCORPIO 2015 MODEL</gadi_model>
+<gadi_number>BR26D 2187</gadi_number>
+<gadi_from>DEVKUND</gadi_from>
+<driver_number>7366918495</driver_number>
+</patner>
+<patner id="14">
+<id>14</id>
+<gadi_model>BOLERO 2011 MODEL</gadi_model>
+<gadi_number>BR26C 5713</gadi_number>
+<gadi_from>DEVKUND</gadi_from>
+<driver_number>7542914793</driver_number>
+</patner>
+<patner id="15">
+<id>15</id>
+<gadi_model>VICTA 2012 MODEL</gadi_model>
+<gadi_number>BR021PB 4960</gadi_number>
+<gadi_from>USARI</gadi_from>
+<driver_number>9110934232</driver_number>
+</patner>
+<patner id="16">
+<id>16</id>
+<gadi_model>VICTA 2009 MODEL</gadi_model>
+<gadi_number>BR01PB 0847</gadi_number>
+<gadi_from>KALER</gadi_from>
+<driver_number>8210465114</driver_number>
+</patner>
+</patners>
