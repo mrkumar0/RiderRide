@@ -70,7 +70,7 @@ table.vitamins tbody td {
 }
 
 table.vitamins tbody tr:hover td:first-child {
-    background: rgba(0,0,0,5);
+    /*background: rgba(0,0,0,5);*/
 }
 
 table.vitamins tbody td:first-child {
